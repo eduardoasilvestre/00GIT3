@@ -10,7 +10,7 @@ package pkg00git3;
  * @author EDUARDO A SILVESTRE
  */
 public class Main {
-
+    private int a = 10;
     /**
      * @param args the command line arguments
      */
