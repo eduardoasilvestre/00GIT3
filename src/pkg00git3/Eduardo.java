@@ -10,5 +10,5 @@ package pkg00git3;
  * @author EDUARDO A SILVESTRE
  */
 public class Eduardo {
-    
+    int ola_eduardo;
 }
